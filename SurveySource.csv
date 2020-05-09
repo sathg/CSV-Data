@@ -1,0 +1,643 @@
+,SchoolId,QuestionIndex,QuestionText,AnswerHeader,AnswerText,Iteration
+0,114620231,2,Does the name observed at school match with the name on the list?,,Yes,1.0
+1,114620231,59,How many physical and seperate classrooms are there in this school?,,12,1.0
+2,114620231,60,How many classrooms are presently in use in this school?,Number of classrooms in use,12,1.0
+3,114620231,60,How many classrooms are presently in use in this school?,Number of classrooms not in use,0,1.0
+4,114620231,61,How many classrooms are useable and non-useable?,Number of useable classrooms,12,1.0
+5,114620231,61,How many classrooms are useable and non-useable?,Number of non-useable classrooms,0,1.0
+6,114620231,62,How many of the following other rooms are there in this school?,Staff rooms,0,1.0
+7,114620231,62,How many of the following other rooms are there in this school?,Libraries,1,1.0
+8,114620231,62,How many of the following other rooms are there in this school?,Offices,1,1.0
+9,114620231,62,How many of the following other rooms are there in this school?,Stores,0,1.0
+10,114620231,62,How many of the following other rooms are there in this school?,Clinics,1,1.0
+11,114620231,62,How many of the following other rooms are there in this school?,Computer rooms,2,1.0
+12,114620231,62,How many of the following other rooms are there in this school?,Playrooms,0,1.0
+13,114620231,63,Are any classes held outside the building (because classrooms are non-useable or insufficient)?,,No,1.0
+14,114620231,64,How many classes are held outside?,,,1.0
+15,114620231,65,"Length, Width and Diagonal of an average class in INCHES",Length,328,1.0
+16,114620231,65,"Length, Width and Diagonal of an average class in INCHES",Width,268,1.0
+17,114620231,65,"Length, Width and Diagonal of an average class in INCHES",Diagonal,418,1.0
+18,114620231,66,Is the classroom shared by more than one class?,,No,1.0
+19,114620231,66,Is the classroom shared by more than one class?,,No,2.0
+20,114620231,66,Is the classroom shared by more than one class?,,No,3.0
+21,114620231,66,Is the classroom shared by more than one class?,,No,4.0
+22,114620231,66,Is the classroom shared by more than one class?,,No,5.0
+23,114620231,66,Is the classroom shared by more than one class?,,Yes,6.0
+24,114620231,66,Is the classroom shared by more than one class?,,Yes,7.0
+25,114620231,66,Is the classroom shared by more than one class?,,Yes,8.0
+26,114620231,66,Is the classroom shared by more than one class?,,No,9.0
+27,114620231,66,Is the classroom shared by more than one class?,,No,10.0
+28,114620231,66,Is the classroom shared by more than one class?,,No,11.0
+29,114620231,66,Is the classroom shared by more than one class?,,Yes,12.0
+30,114620231,67,What class level are you recording for?,,Nursery 1,1.0
+31,114620231,67,What class level are you recording for?,,Nursery 1,2.0
+32,114620231,67,What class level are you recording for?,,Nursery 2,3.0
+33,114620231,67,What class level are you recording for?,,Kindergarten,4.0
+34,114620231,67,What class level are you recording for?,,Primary 1,5.0
+35,114620231,67,What class level are you recording for?,,Primary 1,7.0
+36,114620231,67,What class level are you recording for?,,Primary 2,8.0
+37,114620231,67,What class level are you recording for?,,Primary 3,9.0
+38,114620231,67,What class level are you recording for?,,Primary 3,10.0
+39,114620231,67,What class level are you recording for?,,Primary 4,11.0
+40,114620231,68,What class arm are you recording for?,,B,1.0
+41,114620231,68,What class arm are you recording for?,,A,2.0
+42,114620231,68,What class arm are you recording for?,,A,3.0
+43,114620231,68,What class arm are you recording for?,,A,4.0
+44,114620231,68,What class arm are you recording for?,,A,5.0
+45,114620231,68,What class arm are you recording for?,,A,7.0
+46,114620231,68,What class arm are you recording for?,,B,8.0
+47,114620231,68,What class arm are you recording for?,,B,9.0
+48,114620231,68,What class arm are you recording for?,,A,10.0
+49,114620231,68,What class arm are you recording for?,,A,11.0
+50,114620231,69,Number of children observed in classroom,Male,18,1.0
+51,114620231,69,Number of children observed in classroom,Female,13,1.0
+52,114620231,69,Number of children observed in classroom,Male,13,2.0
+53,114620231,69,Number of children observed in classroom,Female,12,2.0
+54,114620231,69,Number of children observed in classroom,Male,16,3.0
+55,114620231,69,Number of children observed in classroom,Female,19,3.0
+56,114620231,69,Number of children observed in classroom,Male,16,4.0
+57,114620231,69,Number of children observed in classroom,Female,17,4.0
+58,114620231,69,Number of children observed in classroom,Male,12,5.0
+59,114620231,69,Number of children observed in classroom,Female,12,5.0
+60,114620231,69,Number of children observed in classroom,Male,12,7.0
+61,114620231,69,Number of children observed in classroom,Female,11,7.0
+62,114620231,69,Number of children observed in classroom,Male,19,8.0
+63,114620231,69,Number of children observed in classroom,Female,11,8.0
+64,114620231,69,Number of children observed in classroom,Male,14,9.0
+65,114620231,69,Number of children observed in classroom,Female,9,9.0
+66,114620231,69,Number of children observed in classroom,Male,10,10.0
+67,114620231,69,Number of children observed in classroom,Female,26,10.0
+68,114620231,69,Number of children observed in classroom,Male,8,11.0
+69,114620231,69,Number of children observed in classroom,Female,10,11.0
+70,114620231,70,Type of classroom sharing,,,1.0
+71,114620231,70,Type of classroom sharing,,Sharing across sections of same grade,6.0
+72,114620231,70,Type of classroom sharing,,Sharing across sections of same grade,7.0
+73,114620231,70,Type of classroom sharing,,Sharing across sections of same grade,8.0
+74,114620231,70,Type of classroom sharing,,Sharing across sections of same grade,12.0
+75,114620231,71,What class levels are you recording for?,Primary 2,X,7.0
+76,114620231,73,What class level are you recording for?,,,1.0
+77,114620231,73,What class level are you recording for?,,Primary 5,6.0
+78,114620231,73,What class level are you recording for?,,Primary 6,7.0
+79,114620231,73,What class level are you recording for?,,Primary 4,12.0
+80,114620231,74,What class arms are you recording for?,A,X,6.0
+81,114620231,74,What class arms are you recording for?,B,X,6.0
+82,114620231,74,What class arms are you recording for?,A,X,7.0
+83,114620231,74,What class arms are you recording for?,B,X,7.0
+84,114620231,74,What class arms are you recording for?,B,X,12.0
+85,114620231,75,Number of children observed in each class arm,Class A Male,13,6.0
+86,114620231,75,Number of children observed in each class arm,Class A Female,6,6.0
+87,114620231,75,Number of children observed in each class arm,Class B Male,10,6.0
+88,114620231,75,Number of children observed in each class arm,Class B Female,14,6.0
+89,114620231,75,Number of children observed in each class arm,Class A Male,7,7.0
+90,114620231,75,Number of children observed in each class arm,Class A Female,13,7.0
+91,114620231,75,Number of children observed in each class arm,Class B Male,15,7.0
+92,114620231,75,Number of children observed in each class arm,Class B Female,10,7.0
+93,114620231,75,Number of children observed in each class arm,Class A Male,8,12.0
+94,114620231,75,Number of children observed in each class arm,Class A Female,10,12.0
+95,114620231,75,Number of children observed in each class arm,Class B Male,12,12.0
+96,114620231,75,Number of children observed in each class arm,Class B Female,11,12.0
+97,114620231,76,Number of teachers observed teaching in class,Male,0,1.0
+98,114620231,76,Number of teachers observed teaching in class,Female,1,1.0
+99,114620231,76,Number of teachers observed teaching in class,Male,0,2.0
+100,114620231,76,Number of teachers observed teaching in class,Female,1,2.0
+101,114620231,76,Number of teachers observed teaching in class,Male,0,3.0
+102,114620231,76,Number of teachers observed teaching in class,Female,1,3.0
+103,114620231,76,Number of teachers observed teaching in class,Male,0,4.0
+104,114620231,76,Number of teachers observed teaching in class,Female,1,4.0
+105,114620231,76,Number of teachers observed teaching in class,Male,0,5.0
+106,114620231,76,Number of teachers observed teaching in class,Female,1,5.0
+107,114620231,76,Number of teachers observed teaching in class,Male,1,6.0
+108,114620231,76,Number of teachers observed teaching in class,Female,0,6.0
+109,114620231,76,Number of teachers observed teaching in class,Male,0,7.0
+110,114620231,76,Number of teachers observed teaching in class,Female,1,7.0
+111,114620231,76,Number of teachers observed teaching in class,Male,0,8.0
+112,114620231,76,Number of teachers observed teaching in class,Female,1,8.0
+113,114620231,76,Number of teachers observed teaching in class,Male,0,9.0
+114,114620231,76,Number of teachers observed teaching in class,Female,1,9.0
+115,114620231,76,Number of teachers observed teaching in class,Male,0,10.0
+116,114620231,76,Number of teachers observed teaching in class,Female,1,10.0
+117,114620231,76,Number of teachers observed teaching in class,Male,0,11.0
+118,114620231,76,Number of teachers observed teaching in class,Female,1,11.0
+119,114620231,76,Number of teachers observed teaching in class,Male,0,12.0
+120,114620231,76,Number of teachers observed teaching in class,Female,1,12.0
+121,114620231,77,Total number of teachers observed in class,Male,0,1.0
+122,114620231,77,Total number of teachers observed in class,Female,1,1.0
+123,114620231,77,Total number of teachers observed in class,Male,0,2.0
+124,114620231,77,Total number of teachers observed in class,Female,1,2.0
+125,114620231,77,Total number of teachers observed in class,Male,0,3.0
+126,114620231,77,Total number of teachers observed in class,Female,1,3.0
+127,114620231,77,Total number of teachers observed in class,Male,0,4.0
+128,114620231,77,Total number of teachers observed in class,Female,1,4.0
+129,114620231,77,Total number of teachers observed in class,Male,0,5.0
+130,114620231,77,Total number of teachers observed in class,Female,1,5.0
+131,114620231,77,Total number of teachers observed in class,Male,1,6.0
+132,114620231,77,Total number of teachers observed in class,Female,1,6.0
+133,114620231,77,Total number of teachers observed in class,Male,0,7.0
+134,114620231,77,Total number of teachers observed in class,Female,1,7.0
+135,114620231,77,Total number of teachers observed in class,Male,0,8.0
+136,114620231,77,Total number of teachers observed in class,Female,1,8.0
+137,114620231,77,Total number of teachers observed in class,Male,0,9.0
+138,114620231,77,Total number of teachers observed in class,Female,1,9.0
+139,114620231,77,Total number of teachers observed in class,Male,0,10.0
+140,114620231,77,Total number of teachers observed in class,Female,1,10.0
+141,114620231,77,Total number of teachers observed in class,Male,0,11.0
+142,114620231,77,Total number of teachers observed in class,Female,2,11.0
+143,114620231,77,Total number of teachers observed in class,Male,0,12.0
+144,114620231,77,Total number of teachers observed in class,Female,2,12.0
+145,114620231,78,What is the overall condition of this classroom?,,Good,1.0
+146,114620231,78,What is the overall condition of this classroom?,,Needs minor repairs,2.0
+147,114620231,78,What is the overall condition of this classroom?,,Needs minor repairs,3.0
+148,114620231,78,What is the overall condition of this classroom?,,Needs minor repairs,4.0
+149,114620231,78,What is the overall condition of this classroom?,,Good,5.0
+150,114620231,78,What is the overall condition of this classroom?,,Good,6.0
+151,114620231,78,What is the overall condition of this classroom?,,Good,7.0
+152,114620231,78,What is the overall condition of this classroom?,,Needs minor repairs,8.0
+153,114620231,78,What is the overall condition of this classroom?,,Good,9.0
+154,114620231,78,What is the overall condition of this classroom?,,Needs minor repairs,10.0
+155,114620231,78,What is the overall condition of this classroom?,,Good,11.0
+156,114620231,78,What is the overall condition of this classroom?,,Good,12.0
+157,114620231,79,What is the present condition of paint within and outside the classroom?,,Good,1.0
+158,114620231,79,What is the present condition of paint within and outside the classroom?,,Needs minor repairs,2.0
+159,114620231,79,What is the present condition of paint within and outside the classroom?,,Needs minor repairs,3.0
+160,114620231,79,What is the present condition of paint within and outside the classroom?,,Needs minor repairs,4.0
+161,114620231,79,What is the present condition of paint within and outside the classroom?,,Needs minor repairs,5.0
+162,114620231,79,What is the present condition of paint within and outside the classroom?,,Good,6.0
+163,114620231,79,What is the present condition of paint within and outside the classroom?,,Good,7.0
+164,114620231,79,What is the present condition of paint within and outside the classroom?,,Needs minor repairs,8.0
+165,114620231,79,What is the present condition of paint within and outside the classroom?,,Good,9.0
+166,114620231,79,What is the present condition of paint within and outside the classroom?,,Good,10.0
+167,114620231,79,What is the present condition of paint within and outside the classroom?,,Good,11.0
+168,114620231,79,What is the present condition of paint within and outside the classroom?,,Good,12.0
+169,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,1.0
+170,114620231,80,What is the floor of this classroom made of?,,Mud/Earth,2.0
+171,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,3.0
+172,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,4.0
+173,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,5.0
+174,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,6.0
+175,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,7.0
+176,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,8.0
+177,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,9.0
+178,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,10.0
+179,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,11.0
+180,114620231,80,What is the floor of this classroom made of?,,Tiles/Terrazzo,12.0
+181,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,1.0
+182,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,2.0
+183,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,3.0
+184,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,4.0
+185,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,5.0
+186,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,6.0
+187,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,7.0
+188,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,8.0
+189,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,9.0
+190,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,10.0
+191,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,11.0
+192,114620231,81,What are the walls of this classroom made of?,,Concrete/Cement,12.0
+193,114620231,82,What is the roofing material made of?,,Concrete/Cement,1.0
+194,114620231,82,What is the roofing material made of?,,Concrete/Cement,2.0
+195,114620231,82,What is the roofing material made of?,,Concrete/Cement,3.0
+196,114620231,82,What is the roofing material made of?,,Concrete/Cement,4.0
+197,114620231,82,What is the roofing material made of?,,Iron Sheet,5.0
+198,114620231,82,What is the roofing material made of?,,Iron Sheet,6.0
+199,114620231,82,What is the roofing material made of?,,Iron Sheet,7.0
+200,114620231,82,What is the roofing material made of?,,Iron Sheet,8.0
+201,114620231,82,What is the roofing material made of?,,Iron Sheet,9.0
+202,114620231,82,What is the roofing material made of?,,Iron Sheet,10.0
+203,114620231,82,What is the roofing material made of?,,Iron Sheet,11.0
+204,114620231,82,What is the roofing material made of?,,Iron Sheet,12.0
+205,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,1.0
+206,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,2.0
+207,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,3.0
+208,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,4.0
+209,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,5.0
+210,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,6.0
+211,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,7.0
+212,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,8.0
+213,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,9.0
+214,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,10.0
+215,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,11.0
+216,114620231,83,Does the classroom have a functional blackboard that children can read from?,,Yes,12.0
+217,114620231,84,Are there children are sitting on the floor of the classroom?,,No,1.0
+218,114620231,84,Are there children are sitting on the floor of the classroom?,,No,2.0
+219,114620231,84,Are there children are sitting on the floor of the classroom?,,No,3.0
+220,114620231,84,Are there children are sitting on the floor of the classroom?,,No,4.0
+221,114620231,84,Are there children are sitting on the floor of the classroom?,,No,5.0
+222,114620231,84,Are there children are sitting on the floor of the classroom?,,No,6.0
+223,114620231,84,Are there children are sitting on the floor of the classroom?,,No,7.0
+224,114620231,84,Are there children are sitting on the floor of the classroom?,,No,8.0
+225,114620231,84,Are there children are sitting on the floor of the classroom?,,No,9.0
+226,114620231,84,Are there children are sitting on the floor of the classroom?,,No,10.0
+227,114620231,84,Are there children are sitting on the floor of the classroom?,,No,11.0
+228,114620231,84,Are there children are sitting on the floor of the classroom?,,No,12.0
+229,114620231,85,Number of seats in class,1 seater,37,1.0
+230,114620231,85,Number of seats in class,2 seater,0,1.0
+231,114620231,85,Number of seats in class,3 seater,0,1.0
+232,114620231,85,Number of seats in class,Others,0,1.0
+233,114620231,85,Number of seats in class,1 seater,44,2.0
+234,114620231,85,Number of seats in class,2 seater,0,2.0
+235,114620231,85,Number of seats in class,3 seater,0,2.0
+236,114620231,85,Number of seats in class,Others,0,2.0
+237,114620231,85,Number of seats in class,1 seater,43,3.0
+238,114620231,85,Number of seats in class,2 seater,0,3.0
+239,114620231,85,Number of seats in class,3 seater,0,3.0
+240,114620231,85,Number of seats in class,Others,0,3.0
+241,114620231,85,Number of seats in class,1 seater,56,4.0
+242,114620231,85,Number of seats in class,2 seater,0,4.0
+243,114620231,85,Number of seats in class,3 seater,0,4.0
+244,114620231,85,Number of seats in class,Others,0,4.0
+245,114620231,85,Number of seats in class,1 seater,40,5.0
+246,114620231,85,Number of seats in class,2 seater,0,5.0
+247,114620231,85,Number of seats in class,3 seater,0,5.0
+248,114620231,85,Number of seats in class,Others,0,5.0
+249,114620231,85,Number of seats in class,1 seater,3,6.0
+250,114620231,85,Number of seats in class,2 seater,12,6.0
+251,114620231,85,Number of seats in class,3 seater,0,6.0
+252,114620231,85,Number of seats in class,Others,2,6.0
+253,114620231,85,Number of seats in class,1 seater,0,7.0
+254,114620231,85,Number of seats in class,2 seater,17,7.0
+255,114620231,85,Number of seats in class,3 seater,0,7.0
+256,114620231,85,Number of seats in class,Others,4,7.0
+257,114620231,85,Number of seats in class,1 seater,18,8.0
+258,114620231,85,Number of seats in class,2 seater,0,8.0
+259,114620231,85,Number of seats in class,3 seater,4,8.0
+260,114620231,85,Number of seats in class,Others,0,8.0
+261,114620231,85,Number of seats in class,1 seater,24,9.0
+262,114620231,85,Number of seats in class,2 seater,0,9.0
+263,114620231,85,Number of seats in class,3 seater,1,9.0
+264,114620231,85,Number of seats in class,Others,0,9.0
+265,114620231,85,Number of seats in class,1 seater,26,10.0
+266,114620231,85,Number of seats in class,2 seater,0,10.0
+267,114620231,85,Number of seats in class,3 seater,4,10.0
+268,114620231,85,Number of seats in class,Others,0,10.0
+269,114620231,85,Number of seats in class,1 seater,0,11.0
+270,114620231,85,Number of seats in class,2 seater,16,11.0
+271,114620231,85,Number of seats in class,3 seater,0,11.0
+272,114620231,85,Number of seats in class,Others,2,11.0
+273,114620231,85,Number of seats in class,1 seater,0,12.0
+274,114620231,85,Number of seats in class,2 seater,16,12.0
+275,114620231,85,Number of seats in class,3 seater,0,12.0
+276,114620231,85,Number of seats in class,Others,2,12.0
+277,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,1.0
+278,114620231,86,Does the classroom have any storage room or locker for textbooks?,,No,2.0
+279,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,3.0
+280,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,4.0
+281,114620231,86,Does the classroom have any storage room or locker for textbooks?,,No,5.0
+282,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,6.0
+283,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,7.0
+284,114620231,86,Does the classroom have any storage room or locker for textbooks?,,No,8.0
+285,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,9.0
+286,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,10.0
+287,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,11.0
+288,114620231,86,Does the classroom have any storage room or locker for textbooks?,,Yes,12.0
+289,114620231,87,Is the storage room or locker for textbooks lockable?,,No,1.0
+290,114620231,87,Is the storage room or locker for textbooks lockable?,,No,3.0
+291,114620231,87,Is the storage room or locker for textbooks lockable?,,No,4.0
+292,114620231,87,Is the storage room or locker for textbooks lockable?,,No,6.0
+293,114620231,87,Is the storage room or locker for textbooks lockable?,,Yes,7.0
+294,114620231,87,Is the storage room or locker for textbooks lockable?,,No,9.0
+295,114620231,87,Is the storage room or locker for textbooks lockable?,,No,10.0
+296,114620231,87,Is the storage room or locker for textbooks lockable?,,Yes,11.0
+297,114620231,87,Is the storage room or locker for textbooks lockable?,,Yes,12.0
+298,114620231,88,How many useable facilities does the school have?,Toilets,15,1.0
+299,114620231,88,How many useable facilities does the school have?,Computers,2,1.0
+300,114620231,88,How many useable facilities does the school have?,Laboratories,0,1.0
+301,114620231,88,How many useable facilities does the school have?,Libraries,1,1.0
+302,114620231,88,How many useable facilities does the school have?,Playgrounds,1,1.0
+303,114620231,88,How many useable facilities does the school have?,Sinks/Handwashing facilities,2,1.0
+304,114620231,88,How many useable facilities does the school have?,Stores,0,1.0
+305,114620231,89,How many non useable facilities does the school have?,Toilets,0,1.0
+306,114620231,89,How many non useable facilities does the school have?,Computers,4,1.0
+307,114620231,89,How many non useable facilities does the school have?,Laboratories,0,1.0
+308,114620231,89,How many non useable facilities does the school have?,Libraries,0,1.0
+309,114620231,89,How many non useable facilities does the school have?,Playgrounds,0,1.0
+310,114620231,89,How many non useable facilities does the school have?,Sinks/Handwashing facilities,0,1.0
+311,114620231,90,"Is there a source of water in the school that is safe to drink and in sufficient quantity to provide water every day for students?  If ""Yes"" and there is more than one source, select only the primary source.",,Borehole,1.0
+312,114620231,91,Electricity in the school?,,"Yes, building is wired and electricity is frequent",1.0
+313,114620231,92,Who are the top telecom providers in the area?,,MTN,1.0
+314,114620231,92,Who are the top telecom providers in the area?,,Airtel,1.0
+315,114620231,92,Who are the top telecom providers in the area?,,9 Mobile,1.0
+316,114620231,92,Who are the top telecom providers in the area?,,Glo,1.0
+317,114620231,100,Was GPS captured in previous question?  Capture manually if NOT and enter values below.,Latitude,,1.0
+318,114620231,100,Was GPS captured in previous question?  Capture manually if NOT and enter values below.,Longtitude,,1.0
+319,114620231,101,Observation and assessment of school staff,,Good,1.0
+320,114620231,102,Other peculiar issues (if any),,Classes are not enough,1.0
+71574,114620231,2,,Yes,1,
+71575,114620231,59,,12,1,
+71576,114620231,60,Number of classrooms in use,12,1,
+71577,114620231,60,Number of classrooms not in use,0,1,
+71578,114620231,61,Number of useable classrooms,12,1,
+71579,114620231,61,Number of non-useable classrooms,0,1,
+71580,114620231,62,Staff rooms,0,1,
+71581,114620231,62,Libraries,1,1,
+71582,114620231,62,Offices,1,1,
+71583,114620231,62,Stores,0,1,
+71584,114620231,62,Clinics,1,1,
+71585,114620231,62,Computer rooms,2,1,
+71586,114620231,62,Playrooms,0,1,
+71587,114620231,63,,No,1,
+71588,114620231,64,,,1,
+71589,114620231,65,Length,328,1,
+71590,114620231,65,Width,268,1,
+71591,114620231,65,Diagonal,418,1,
+71592,114620231,66,,No,1,
+71593,114620231,66,,No,2,
+71594,114620231,66,,No,3,
+71595,114620231,66,,No,4,
+71596,114620231,66,,No,5,
+71597,114620231,66,,Yes,6,
+71598,114620231,66,,Yes,7,
+71599,114620231,66,,Yes,8,
+71600,114620231,66,,No,9,
+71601,114620231,66,,No,10,
+71602,114620231,66,,No,11,
+71603,114620231,66,,Yes,12,
+71604,114620231,67,,Nursery 1,1,
+71605,114620231,67,,Nursery 1,2,
+71606,114620231,67,,Nursery 2,3,
+71607,114620231,67,,Kindergarten,4,
+71608,114620231,67,,Primary 1,5,
+71609,114620231,67,,Primary 1,7,
+71610,114620231,67,,Primary 2,8,
+71611,114620231,67,,Primary 3,9,
+71612,114620231,67,,Primary 3,10,
+71613,114620231,67,,Primary 4,11,
+71614,114620231,68,,B,1,
+71615,114620231,68,,A,2,
+71616,114620231,68,,A,3,
+71617,114620231,68,,A,4,
+71618,114620231,68,,A,5,
+71619,114620231,68,,A,7,
+71620,114620231,68,,B,8,
+71621,114620231,68,,B,9,
+71622,114620231,68,,A,10,
+71623,114620231,68,,A,11,
+71624,114620231,69,Male,18,1,
+71625,114620231,69,Female,13,1,
+71626,114620231,69,Male,13,2,
+71627,114620231,69,Female,12,2,
+71628,114620231,69,Male,16,3,
+71629,114620231,69,Female,19,3,
+71630,114620231,69,Male,16,4,
+71631,114620231,69,Female,17,4,
+71632,114620231,69,Male,12,5,
+71633,114620231,69,Female,12,5,
+71634,114620231,69,Male,12,7,
+71635,114620231,69,Female,11,7,
+71636,114620231,69,Male,19,8,
+71637,114620231,69,Female,11,8,
+71638,114620231,69,Male,14,9,
+71639,114620231,69,Female,9,9,
+71640,114620231,69,Male,10,10,
+71641,114620231,69,Female,26,10,
+71642,114620231,69,Male,8,11,
+71643,114620231,69,Female,10,11,
+71644,114620231,70,,,1,
+71645,114620231,70,,Sharing across arms of same class,6,
+71646,114620231,70,,Sharing across arms of same class,7,
+71647,114620231,70,,Sharing across arms of same class,8,
+71648,114620231,70,,Sharing across arms of same class,12,
+71649,114620231,71,Primary 2,X,7,
+71650,114620231,73,,,1,
+71651,114620231,73,,Primary 5,6,
+71652,114620231,73,,Primary 6,7,
+71653,114620231,73,,Primary 4,12,
+71654,114620231,74,A,X,6,
+71655,114620231,74,B,X,6,
+71656,114620231,74,A,X,7,
+71657,114620231,74,B,X,7,
+71658,114620231,74,B,X,12,
+71659,114620231,75,Class A Male,13,6,
+71660,114620231,75,Class A Female,6,6,
+71661,114620231,75,Class B Male,10,6,
+71662,114620231,75,Class B Female,14,6,
+71663,114620231,75,Class A Male,7,7,
+71664,114620231,75,Class A Female,13,7,
+71665,114620231,75,Class B Male,15,7,
+71666,114620231,75,Class B Female,10,7,
+71667,114620231,75,Class A Male,8,12,
+71668,114620231,75,Class A Female,10,12,
+71669,114620231,75,Class B Male,12,12,
+71670,114620231,75,Class B Female,11,12,
+71671,114620231,76,Male,0,1,
+71672,114620231,76,Female,1,1,
+71673,114620231,76,Male,0,2,
+71674,114620231,76,Female,1,2,
+71675,114620231,76,Male,0,3,
+71676,114620231,76,Female,1,3,
+71677,114620231,76,Male,0,4,
+71678,114620231,76,Female,1,4,
+71679,114620231,76,Male,0,5,
+71680,114620231,76,Female,1,5,
+71681,114620231,76,Male,1,6,
+71682,114620231,76,Female,0,6,
+71683,114620231,76,Male,0,7,
+71684,114620231,76,Female,1,7,
+71685,114620231,76,Male,0,8,
+71686,114620231,76,Female,1,8,
+71687,114620231,76,Male,0,9,
+71688,114620231,76,Female,1,9,
+71689,114620231,76,Male,0,10,
+71690,114620231,76,Female,1,10,
+71691,114620231,76,Male,0,11,
+71692,114620231,76,Female,1,11,
+71693,114620231,76,Male,0,12,
+71694,114620231,76,Female,1,12,
+71695,114620231,77,Male,0,1,
+71696,114620231,77,Female,1,1,
+71697,114620231,77,Male,0,2,
+71698,114620231,77,Female,1,2,
+71699,114620231,77,Male,0,3,
+71700,114620231,77,Female,1,3,
+71701,114620231,77,Male,0,4,
+71702,114620231,77,Female,1,4,
+71703,114620231,77,Male,0,5,
+71704,114620231,77,Female,1,5,
+71705,114620231,77,Male,1,6,
+71706,114620231,77,Female,1,6,
+71707,114620231,77,Male,0,7,
+71708,114620231,77,Female,1,7,
+71709,114620231,77,Male,0,8,
+71710,114620231,77,Female,1,8,
+71711,114620231,77,Male,0,9,
+71712,114620231,77,Female,1,9,
+71713,114620231,77,Male,0,10,
+71714,114620231,77,Female,1,10,
+71715,114620231,77,Male,0,11,
+71716,114620231,77,Female,2,11,
+71717,114620231,77,Male,0,12,
+71718,114620231,77,Female,2,12,
+71719,114620231,78,,Good,1,
+71720,114620231,78,,Needs minor repairs,2,
+71721,114620231,78,,Needs minor repairs,3,
+71722,114620231,78,,Needs minor repairs,4,
+71723,114620231,78,,Good,5,
+71724,114620231,78,,Good,6,
+71725,114620231,78,,Good,7,
+71726,114620231,78,,Needs minor repairs,8,
+71727,114620231,78,,Good,9,
+71728,114620231,78,,Needs minor repairs,10,
+71729,114620231,78,,Good,11,
+71730,114620231,78,,Good,12,
+71731,114620231,79,,Good,1,
+71732,114620231,79,,Needs minor repairs,2,
+71733,114620231,79,,Needs minor repairs,3,
+71734,114620231,79,,Needs minor repairs,4,
+71735,114620231,79,,Needs minor repairs,5,
+71736,114620231,79,,Good,6,
+71737,114620231,79,,Good,7,
+71738,114620231,79,,Needs minor repairs,8,
+71739,114620231,79,,Good,9,
+71740,114620231,79,,Good,10,
+71741,114620231,79,,Good,11,
+71742,114620231,79,,Good,12,
+71743,114620231,80,,Tiles/Terrazzo,1,
+71744,114620231,80,,Mud/Earth,2,
+71745,114620231,80,,Tiles/Terrazzo,3,
+71746,114620231,80,,Tiles/Terrazzo,4,
+71747,114620231,80,,Tiles/Terrazzo,5,
+71748,114620231,80,,Tiles/Terrazzo,6,
+71749,114620231,80,,Tiles/Terrazzo,7,
+71750,114620231,80,,Tiles/Terrazzo,8,
+71751,114620231,80,,Tiles/Terrazzo,9,
+71752,114620231,80,,Tiles/Terrazzo,10,
+71753,114620231,80,,Tiles/Terrazzo,11,
+71754,114620231,80,,Tiles/Terrazzo,12,
+71755,114620231,81,,Concrete/Cement,1,
+71756,114620231,81,,Concrete/Cement,2,
+71757,114620231,81,,Concrete/Cement,3,
+71758,114620231,81,,Concrete/Cement,4,
+71759,114620231,81,,Concrete/Cement,5,
+71760,114620231,81,,Concrete/Cement,6,
+71761,114620231,81,,Concrete/Cement,7,
+71762,114620231,81,,Concrete/Cement,8,
+71763,114620231,81,,Concrete/Cement,9,
+71764,114620231,81,,Concrete/Cement,10,
+71765,114620231,81,,Concrete/Cement,11,
+71766,114620231,81,,Concrete/Cement,12,
+71767,114620231,82,,Concrete/Cement,1,
+71768,114620231,82,,Concrete/Cement,2,
+71769,114620231,82,,Concrete/Cement,3,
+71770,114620231,82,,Concrete/Cement,4,
+71771,114620231,82,,Iron Sheet,5,
+71772,114620231,82,,Iron Sheet,6,
+71773,114620231,82,,Iron Sheet,7,
+71774,114620231,82,,Iron Sheet,8,
+71775,114620231,82,,Iron Sheet,9,
+71776,114620231,82,,Iron Sheet,10,
+71777,114620231,82,,Iron Sheet,11,
+71778,114620231,82,,Iron Sheet,12,
+71779,114620231,83,,Yes,1,
+71780,114620231,83,,Yes,2,
+71781,114620231,83,,Yes,3,
+71782,114620231,83,,Yes,4,
+71783,114620231,83,,Yes,5,
+71784,114620231,83,,Yes,6,
+71785,114620231,83,,Yes,7,
+71786,114620231,83,,Yes,8,
+71787,114620231,83,,Yes,9,
+71788,114620231,83,,Yes,10,
+71789,114620231,83,,Yes,11,
+71790,114620231,83,,Yes,12,
+71791,114620231,84,,No,1,
+71792,114620231,84,,No,2,
+71793,114620231,84,,No,3,
+71794,114620231,84,,No,4,
+71795,114620231,84,,No,5,
+71796,114620231,84,,No,6,
+71797,114620231,84,,No,7,
+71798,114620231,84,,No,8,
+71799,114620231,84,,No,9,
+71800,114620231,84,,No,10,
+71801,114620231,84,,No,11,
+71802,114620231,84,,No,12,
+71803,114620231,85,1 seater,37,1,
+71804,114620231,85,2 seater,0,1,
+71805,114620231,85,3 seater,0,1,
+71806,114620231,85,Others,0,1,
+71807,114620231,85,1 seater,44,2,
+71808,114620231,85,2 seater,0,2,
+71809,114620231,85,3 seater,0,2,
+71810,114620231,85,Others,0,2,
+71811,114620231,85,1 seater,43,3,
+71812,114620231,85,2 seater,0,3,
+71813,114620231,85,3 seater,0,3,
+71814,114620231,85,Others,0,3,
+71815,114620231,85,1 seater,56,4,
+71816,114620231,85,2 seater,0,4,
+71817,114620231,85,3 seater,0,4,
+71818,114620231,85,Others,0,4,
+71819,114620231,85,1 seater,40,5,
+71820,114620231,85,2 seater,0,5,
+71821,114620231,85,3 seater,0,5,
+71822,114620231,85,Others,0,5,
+71823,114620231,85,1 seater,3,6,
+71824,114620231,85,2 seater,12,6,
+71825,114620231,85,3 seater,0,6,
+71826,114620231,85,Others,2,6,
+71827,114620231,85,1 seater,0,7,
+71828,114620231,85,2 seater,17,7,
+71829,114620231,85,3 seater,0,7,
+71830,114620231,85,Others,4,7,
+71831,114620231,85,1 seater,18,8,
+71832,114620231,85,2 seater,0,8,
+71833,114620231,85,3 seater,4,8,
+71834,114620231,85,Others,0,8,
+71835,114620231,85,1 seater,24,9,
+71836,114620231,85,2 seater,0,9,
+71837,114620231,85,3 seater,1,9,
+71838,114620231,85,Others,0,9,
+71839,114620231,85,1 seater,26,10,
+71840,114620231,85,2 seater,0,10,
+71841,114620231,85,3 seater,4,10,
+71842,114620231,85,Others,0,10,
+71843,114620231,85,1 seater,0,11,
+71844,114620231,85,2 seater,16,11,
+71845,114620231,85,3 seater,0,11,
+71846,114620231,85,Others,2,11,
+71847,114620231,85,1 seater,0,12,
+71848,114620231,85,2 seater,16,12,
+71849,114620231,85,3 seater,0,12,
+71850,114620231,85,Others,2,12,
+71851,114620231,86,,Yes,1,
+71852,114620231,86,,No,2,
+71853,114620231,86,,Yes,3,
+71854,114620231,86,,Yes,4,
+71855,114620231,86,,No,5,
+71856,114620231,86,,Yes,6,
+71857,114620231,86,,Yes,7,
+71858,114620231,86,,No,8,
+71859,114620231,86,,Yes,9,
+71860,114620231,86,,Yes,10,
+71861,114620231,86,,Yes,11,
+71862,114620231,86,,Yes,12,
+71863,114620231,87,,No,1,
+71864,114620231,87,,No,3,
+71865,114620231,87,,No,4,
+71866,114620231,87,,No,6,
+71867,114620231,87,,Yes,7,
+71868,114620231,87,,No,9,
+71869,114620231,87,,No,10,
+71870,114620231,87,,Yes,11,
+71871,114620231,87,,Yes,12,
+71872,114620231,88,Toilets,15,1,
+71873,114620231,88,Computers,2,1,
+71874,114620231,88,Laboratories,0,1,
+71875,114620231,88,Libraries,1,1,
+71876,114620231,88,Playgrounds,1,1,
+71877,114620231,88,Sinks/Handwashing facilities,2,1,
+71878,114620231,88,Stores,0,1,
+71879,114620231,89,Toilets,0,1,
+71880,114620231,89,Computers,4,1,
+71881,114620231,89,Laboratories,0,1,
+71882,114620231,89,Libraries,0,1,
+71883,114620231,89,Playgrounds,0,1,
+71884,114620231,89,Sinks/Handwashing facilities,0,1,
+71885,114620231,90,,Borehole,1,
+71886,114620231,91,,"Yes, building is wired and electricity is frequent",1,
+71887,114620231,92,,MTN,1,
+71888,114620231,92,,Airtel,1,
+71889,114620231,92,,9 Mobile,1,
+71890,114620231,92,,Glo,1,
+71891,114620231,100,Latitude,,1,
+71892,114620231,100,Longtitude,,1,
+71893,114620231,101,,Good,1,
+71894,114620231,102,,Classes are not enough,1,
